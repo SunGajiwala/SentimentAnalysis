@@ -6,6 +6,6 @@
 
 Step 1: Clone the repository to your local system
 
-Step 2: Install the requirements.txt file *pip install requirements.txt*
+Step 2: Install the requirements.txt file *"pip install requirements.txt"*
 
 Step 3: Local the cloned directory and Run the command on your terminal *"streamlit run SentimentAnalysis.py"* 
